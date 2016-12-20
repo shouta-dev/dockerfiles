@@ -1,7 +1,8 @@
 概要
 ===
 
-* Tensorflowでトレーニングする環境を作るDockerfileです
+* Tensorflowでトレーニングしたcheckpointをtensorboardで表示するするDockerfileです
+* トレーニングする環境そのものはまた別のDockerfileなので注意
 
 前提
 ===
